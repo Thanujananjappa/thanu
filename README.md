@@ -1,4 +1,1 @@
-wertyuisdfghjxcvbn
-sdfghzxcvbn
-kdnvhu
-kajsnhje
+print("hello")
